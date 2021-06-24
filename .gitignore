@@ -1,0 +1,10 @@
+.vs/MetaHumanProject/config/
+.vs/MetaHumanProject/v15/.suo
+.vs/MetaHumanProject/v16/
+Binaries/
+Intermediate/
+Saved/
+Content/
+
+Config/
+*.cs
